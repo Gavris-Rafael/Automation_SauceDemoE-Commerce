@@ -13,4 +13,4 @@ This project is developed to verify the main functionalities of the application 
 
 - `src/main/java/pages/` - Contains page classes that model different components and interfaces of the site.
 - `src/test/java` - Includes test classes organized by functionality (authentication, cart, checkout).
-- `resources/screenshots/` - Stores screenshots from tests for documentation purposes.
+- `resources/screenshots/` - Stores screenshots from tests for documentation purposes (for tests that fail).
